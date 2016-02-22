@@ -1,1 +1,18 @@
-{"iso":"ar","name":"Argentina","full_name":"Argentina – Argentine Republic","meta":{},"results":{"innovations":[],"ocds_historic_data":false,"ocds_ongoing_data":false,"ocds_implementation":false,"websites":[],"ogp_commitments":[],"citizen_monitoring":false}}
+{
+  "iso": "ar",
+  "name": "Argentina",
+  "full_name": "Argentina – Argentine Republic",
+  "meta": {
+    "date": 1456136893111
+  },
+  "results": {
+    "innovations": [],
+    "ocds_historic_data": false,
+    "ocds_ongoing_data": false,
+    "ocds_implementation": false,
+    "websites": [],
+    "ogp_commitments": [],
+    "citizen_monitoring": false,
+    "godi_score": 12
+  }
+}
